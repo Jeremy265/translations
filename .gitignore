@@ -1,0 +1,4 @@
+.env
+*.json
+*.sql
+.DS_Store
